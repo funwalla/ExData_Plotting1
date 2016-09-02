@@ -1,5 +1,14 @@
 ## Introduction
 
+This repository contains my work in completion of Course Project 1 for
+the Johns Hopkins Exploratory Data Analysis class on Coursera. The original
+README file, which gives the instructions for this project, has been renamed
+README-original.md and has been retained in this repository. This file provides
+information on the R scripts written to complete the project and the 
+
+
+![Plot 1.](https://github.com/funwalla/ExData_Plotting1/blob/master/plot1.png)
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
