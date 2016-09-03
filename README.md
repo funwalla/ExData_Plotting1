@@ -1,13 +1,18 @@
 ## Introduction
 
-This repository contains my work in completion of Course Project 1 for
-the Johns Hopkins Exploratory Data Analysis class on Coursera. The original
-README file, which gives the instructions for this project, has been renamed
-README-original.md and has been retained in this repository. This file provides
-information on the R scripts written to complete the project and the 
+This repository contains my work in completion of Course Project 1 for the Johns Hopkins Exploratory Data Analysis class on Coursera.  This file provides information on the work done to complete the project. The original README file, which gives the instructions for this project, follows these project notes.
+
+### Repository structure
 
 
-![Plot 1.](https://github.com/funwalla/ExData_Plotting1/blob/master/plot1.png)
+
+#### Plot 1
+Plot 1 - New           | Plot 1 - Original
+:---------------------:| :---------------------:
+![Plot 1 - New](https://github.com/funwalla/ExData_Plotting1/blob/master/plot1.png)|![Plot 1 - Original](https://github.com/funwalla/ExData_Plotting1/blob/master/figure/unnamed-chunk-2.png)
+
+
+## Original README file
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
