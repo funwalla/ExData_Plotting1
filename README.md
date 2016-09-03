@@ -6,10 +6,14 @@ This repository contains my work in completion of Course Project 1 for the Johns
 
 
 
-#### Plot 1
+#### Plots
 Plot 1 - New           | Plot 1 - Original
 :---------------------:| :---------------------:
 ![Plot 1 - New](https://github.com/funwalla/ExData_Plotting1/blob/master/plot1.png)|![Plot 1 - Original](https://github.com/funwalla/ExData_Plotting1/blob/master/figure/unnamed-chunk-2.png)
+Plot 2 - New           | Plot 2 - Original
+:---------------------:| :---------------------:
+![Plot 2 - New](https://github.com/funwalla/ExData_Plotting1/blob/master/plot2.png)|![Plot 2 - Original](https://github.com/funwalla/ExData_Plotting1/blob/master/figure/unnamed-chunk-3.png)
+
 
 
 ## Original README file
