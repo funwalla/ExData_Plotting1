@@ -1,6 +1,6 @@
 ## Introduction
 
-This repository contains my work in completion of Course Project 1 for the Johns Hopkins Exploratory Data Analysis class on Coursera.  This file provides information on the work done to complete the project. The original README file, which gives the instructions for this project, follows these project notes.
+This repository contains my work in completion of Course Project 1 for the Johns Hopkins Exploratory Data Analysis class on Coursera.  This file provides information on the work done to complete the project. The original README file, which gives the instructions for this project, follows these brief project notes.
 
 ### R scripts
 
