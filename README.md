@@ -2,11 +2,15 @@
 
 This repository contains my work in completion of Course Project 1 for the Johns Hopkins Exploratory Data Analysis class on Coursera.  This file provides information on the work done to complete the project. The original README file, which gives the instructions for this project, follows these project notes.
 
-### Repository structure
+### R scripts
+
+The R scripts *(plot1.R, plot2.R, plot3.R, and plot4.R)* can be found in the top level directory of this repository. They all use the [readr](https://github.com/hadley/readr), [dplyr](https://github.com/hadley/dplyr), and [lubridate](https://github.com/hadley/lubridate) packages by Hadley Wickham. The rest of the scripts are straight-forward applications of the base plotting routines.
+
+### Plots
+
+The plots *(plot1.png, plot2.png, plot3.png, and plot4.png)* can be found in the top-level directory of this repository. They are shown in the table below along with the Roger Peng's original plots for comparison.
 
 
-
-#### Plots
 Plot 1 - New *(plot1.png)* | Plot 1 - Original *(figure/unnamed-chunk-2.png)*
 :---------------------:| :---------------------:
 ![Plot 1 - New](https://github.com/funwalla/ExData_Plotting1/blob/master/plot1.png)|![Plot 1 - Original](https://github.com/funwalla/ExData_Plotting1/blob/master/figure/unnamed-chunk-2.png)
